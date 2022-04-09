@@ -1,9 +1,9 @@
 package com.luckylau.event.driven;
 
-import com.luckylau.event.driven.service.impl.BeanEmailObserver;
-import com.luckylau.event.driven.service.impl.BeanPaymentStatusUpdateSubject;
-import com.luckylau.event.driven.service.impl.BeanSmsObserver;
-import com.luckylau.event.driven.service.impl.BeanStockObserver;
+import com.luckylau.event.driven.service.bean.BeanEmailObserver;
+import com.luckylau.event.driven.service.bean.BeanPaymentStatusUpdateSubject;
+import com.luckylau.event.driven.service.bean.BeanSmsObserver;
+import com.luckylau.event.driven.service.bean.BeanStockObserver;
 
 /**
  * @Author luckylau

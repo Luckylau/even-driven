@@ -1,4 +1,4 @@
-package com.luckylau.event.driven.service;
+package com.luckylau.event.driven.service.normal;
 
 /**
  * @Author luckylau

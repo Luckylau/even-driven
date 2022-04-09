@@ -1,7 +1,4 @@
-package com.luckylau.event.driven.service.impl;
-
-import com.luckylau.event.driven.service.Observer;
-import com.luckylau.event.driven.service.Subject;
+package com.luckylau.event.driven.service.normal;
 
 import java.util.ArrayList;
 import java.util.List;

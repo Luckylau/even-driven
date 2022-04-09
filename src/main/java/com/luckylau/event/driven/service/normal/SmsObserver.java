@@ -1,6 +1,4 @@
-package com.luckylau.event.driven.service.impl;
-
-import com.luckylau.event.driven.service.Observer;
+package com.luckylau.event.driven.service.normal;
 
 /**
  * @Author luckylau
