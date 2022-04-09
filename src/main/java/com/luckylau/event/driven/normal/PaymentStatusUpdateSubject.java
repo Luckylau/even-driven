@@ -1,4 +1,4 @@
-package com.luckylau.event.driven.service.normal;
+package com.luckylau.event.driven.normal;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.luckylau.event.driven.service.bean;
+package com.luckylau.event.driven.bean;
 
 import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;

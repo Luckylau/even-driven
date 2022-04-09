@@ -1,4 +1,4 @@
-package com.luckylau.event.driven.model;
+package com.luckylau.event.driven.spring;
 
 /**
  * @Author luckylau

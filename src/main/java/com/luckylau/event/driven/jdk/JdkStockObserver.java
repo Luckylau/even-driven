@@ -1,4 +1,4 @@
-package com.luckylau.event.driven.service.jdk;
+package com.luckylau.event.driven.jdk;
 
 import java.util.Observable;
 import java.util.Observer;

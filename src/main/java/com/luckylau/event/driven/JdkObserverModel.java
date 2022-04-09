@@ -1,9 +1,9 @@
 package com.luckylau.event.driven;
 
-import com.luckylau.event.driven.service.jdk.JdkEmailObserver;
-import com.luckylau.event.driven.service.jdk.JdkPaymentStatusUpdateSubject;
-import com.luckylau.event.driven.service.jdk.JdkSmsObserver;
-import com.luckylau.event.driven.service.jdk.JdkStockObserver;
+import com.luckylau.event.driven.jdk.JdkEmailObserver;
+import com.luckylau.event.driven.jdk.JdkPaymentStatusUpdateSubject;
+import com.luckylau.event.driven.jdk.JdkSmsObserver;
+import com.luckylau.event.driven.jdk.JdkStockObserver;
 
 /**
  * @Author luckylau

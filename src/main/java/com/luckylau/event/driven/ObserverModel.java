@@ -1,9 +1,9 @@
 package com.luckylau.event.driven;
 
-import com.luckylau.event.driven.service.normal.EmailObserver;
-import com.luckylau.event.driven.service.normal.PaymentStatusUpdateSubject;
-import com.luckylau.event.driven.service.normal.SmsObserver;
-import com.luckylau.event.driven.service.normal.StockObserver;
+import com.luckylau.event.driven.normal.EmailObserver;
+import com.luckylau.event.driven.normal.PaymentStatusUpdateSubject;
+import com.luckylau.event.driven.normal.SmsObserver;
+import com.luckylau.event.driven.normal.StockObserver;
 
 /**
  * @Author luckylau
